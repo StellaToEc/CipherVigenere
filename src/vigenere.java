@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.*;
 
-public class vigenere {
+public class vigenere{
 
     static int[] findnumbers(String text, char[] abc) {
         char textc[]=text.toCharArray();
